@@ -1,0 +1,13 @@
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\bin\Debug\AgendaApp1.exe.config
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\bin\Debug\AgendaApp1.exe
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\bin\Debug\AgendaApp1.pdb
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\obj\Debug\AgendaApp1.csprojAssemblyReference.cache
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\obj\Debug\AgendaApp1.Ventanaprincipal.resources
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\obj\Debug\AgendaApp1.VentanaContactos.resources
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\obj\Debug\AgendaApp1.Properties.Resources.resources
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\obj\Debug\AgendaApp1.csproj.GenerateResource.cache
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\obj\Debug\AgendaApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\obj\Debug\AgendaApp1.exe
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\obj\Debug\AgendaApp1.pdb
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\obj\Debug\AgendaApp1.Iniciar_Sesion.resources
+C:\Users\Gerson Gil\source\repos\AgendaApp1\AgendaApp1\obj\Debug\AgendaApp1.Register.resources
